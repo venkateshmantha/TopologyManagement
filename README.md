@@ -9,7 +9,6 @@ Dynamic Ring Topology - java TMAN <r1,r2,....,rn>
 Binary Tree Topology - java TMAN
 
 Crescent Moon Topology - java TMAN
-
 ```
 
 N - Number of Nodes in the Topology. K - The neighbors associated with each node in the topology. n - No. of radius values.

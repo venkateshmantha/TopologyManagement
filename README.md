@@ -1,7 +1,7 @@
 # Topology Management
 
 Simulating fast gossip-based constructions for Large-Scale P2P overlay topologies submitted as a part of the
-coursework for EEL 6935 Distributed Computing (Fall'16)
+coursework for EEL 6935 Distributed Computing (Spring'17)
 
 ```
 Dynamic Ring Topology - java TMAN <r1,r2,....,rn>
